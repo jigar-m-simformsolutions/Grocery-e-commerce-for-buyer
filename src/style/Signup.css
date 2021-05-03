@@ -1,0 +1,24 @@
+.signup-card{
+    margin: 0 auto; 
+    width : 50%
+}
+
+.signup-card > Alert{
+    color: rgb(221, 122, 122);
+}
+
+.Head{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(116, 92, 172);
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.login-Link{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+}

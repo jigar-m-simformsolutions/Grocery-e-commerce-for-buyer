@@ -1,0 +1,59 @@
+.navlist .wishlist {
+  font-size: 30px;
+  margin: 0 10px;
+}
+
+.navlist .wishlist p {
+  padding: 0;
+  margin: 0;
+  width: 22px;
+  height: 22px;
+  font-size: 15px;
+  border-radius: 50%;
+  background-color: red;
+  padding: 0 0 15px 7px;
+  color: white;
+  position: fixed;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.navlist .wishlist span {
+  cursor: pointer;
+}
+
+.navlist .addtocart {
+  font-size: 30px;
+  margin: 0 5px;
+}
+
+.navlist .addtocart p {
+  position:fixed;
+  padding: 0;
+  margin: 0;
+  width: 22px;
+  height: 22px;
+  font-size: 15px;
+  border-radius: 50%;
+  background-color: red;
+  padding: 0 0 15px 7px;
+  color: white;
+  position: fixed;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.navlist .addtocart span {
+  cursor: pointer;
+}
+ .navlist .username{
+   margin-left: 20px;
+   margin-top: 7px;
+   /* font-size: 15px; */
+   /* border: 1px solid black; */
+ }
+
+.navlist .username span {
+  padding: 0 10px;
+  cursor: pointer;
+}

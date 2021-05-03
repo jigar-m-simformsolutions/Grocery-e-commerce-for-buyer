@@ -1,0 +1,41 @@
+/* ul {
+    margin: 0;
+} */
+/* 
+ul > li {
+    list-style-type: none;
+    padding: 10px;
+}  */
+
+.Home .lists {
+    border-right: 1px solid black;
+    width: 250px;
+    height: 650px;
+}
+
+.Home > .lists > ul {
+    text-align: center;
+    list-style-type:none;
+    padding-left: 0pt;
+    margin-top: 10px;
+}
+
+.Home > .lists ul li {
+    padding: 10px;
+}
+
+.Home > .lists h5 {
+    text-align: center;
+}
+
+.Home > .lists ul li i {
+    color:#555758;
+    font-size:230%;
+    width:1em;
+    height:1em;
+}
+
+.Phone_Verification{
+    width: auto;
+    float: right;
+}
